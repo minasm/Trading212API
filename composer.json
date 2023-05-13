@@ -13,7 +13,8 @@
         "guzzlehttp/guzzle": "^7.5.1",
         "illuminate/support": "^8.0|^9.0|^10.0",
         "illuminate/contracts": "^8.0|^9.0|^10.0",
-        "vlucas/phpdotenv": "^5.5"
+        "vlucas/phpdotenv": "^5.5",
+        "laravel/pint": "^1.10"
     },
     "autoload": {
         "psr-4": {
