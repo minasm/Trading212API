@@ -1,5 +1,5 @@
 {
-    "name": "minasm/trading212",
+    "name": "minasm/trading212api",
     "description": "Wrapper for official trading212.com api",
     "type": "library",
     "license": "MIT",
