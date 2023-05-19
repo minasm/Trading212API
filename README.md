@@ -10,7 +10,7 @@ You can check the documentation here https://t212public-api-docs.redoc.ly/
 To install this package via the `composer require` command:
 
 ```bash
-$ composer require MinasM/T212
+$ composer require minasm/trading212api
 ```
 Or add it to `composer.json` manually:
 
